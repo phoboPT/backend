@@ -4,6 +4,7 @@
   "private": true,
   "author": "H&R",
   "license": "MIT",
+  
   "scripts": {
     "dev": "keystone-next",
     "seed-data": "keystone-next --seed-data"
